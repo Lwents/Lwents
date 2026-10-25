@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lwents/Lwents/output/github-contribution-grid-snake.gif" alt="snake animation" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lwents/Lwents/output/github-contribution-grid-snake.gif"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lwents/Lwents/output/github-contribution-grid-snake-light.gif"><img alt="snake animation" src="https://raw.githubusercontent.com/Lwents/Lwents/output/github-contribution-grid-snake.gif" /></picture>
 
 </div>
 
