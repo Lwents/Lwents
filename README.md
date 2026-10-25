@@ -12,21 +12,25 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lwents/Lwents/main/assets/animated-divider.svg" width="100%" />
+</p>
 
 ## 🚀 About Me
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 💻 Passionate about building modern and scalable applications  
+- 💻 Passionate about building modern, scalable web applications  
 - 🌱 Constantly learning and improving in software engineering  
 - ⚡ Focused on writing clean, maintainable, and efficient code  
 - 🎯 Goal: create products that are useful, polished, and impactful  
-- 🧠 Interested in web development, backend systems, and architecture  
+- 🧠 Interested in full-stack web development, system architecture & AI tools  
 
 <br clear="right"/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lwents/Lwents/main/assets/animated-divider.svg" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -36,9 +40,24 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lwents/Lwents/main/assets/animated-divider.svg" width="100%" />
+</p>
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **[RVP](https://github.com/Lwents/RVP)** | AI-assisted video auto-translation & Vietnamese dubbing platform | `Python` `React` `FastAPI` | [View Repo ↗](https://github.com/Lwents/RVP) |
+| **[Habit-Tracker](https://github.com/Lwents/Habit-Tracker)** | Modern habit tracking & productivity tool for personal growth | `TypeScript` `Web` | [View Repo ↗](https://github.com/Lwents/Habit-Tracker) |
+| **[Quiz_SP](https://github.com/Lwents/Quiz_SP)** | Interactive exam revision & quiz practice platform | `TypeScript` `Frontend` | [View Repo ↗](https://github.com/Lwents/Quiz_SP) |
+| **[SunEdu](https://github.com/Lwents/SunEdu)** | Full-stack educational & course management application | `Vue.js` `Express` | [View Repo ↗](https://github.com/Lwents/SunEdu) |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lwents/Lwents/main/assets/animated-divider.svg" width="100%" />
+</p>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -53,27 +72,9 @@
 
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lwents&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lwents&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lwents/Lwents/main/assets/animated-divider.svg" width="100%" />
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -83,7 +84,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lwents/Lwents/main/assets/animated-divider.svg" width="100%" />
+</p>
 
 ## ✨ Favorite Quote
 
@@ -93,7 +96,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lwents/Lwents/main/assets/animated-divider.svg" width="100%" />
+</p>
 
 ## 🌐 Connect With Me
 
